@@ -2,7 +2,7 @@
 
 ## LATIHAN 1
 
-![gambar1](gambar/Latihan-1/1_soal.PNG)
+![gambar1](Latihan1/GambarLatihan1/gbr2.PNG)
 
 ### JAWABAN
   - Buka text editor, PyCharm, Atom, Visual Studio, dan lain-lain. Kemudian salin kode berikut
@@ -19,11 +19,11 @@
         9
 
 
-  ![gambar2](gambar/Latihan-1/2_kode.PNG)
+  ![gambar2](Latihan1/GambarLatihan1/gbr1.PNG)
 
   - Kemudian simpan dengan nama ```latihan1.py```, lalu jalankan program tersebut. Maka akan menampilkan output sebagai berikut
 
-    ![gambar3](gambar/Latihan-1/3_output.PNG)
+    ![gambar3](Latihan1/GambarLatihan1/gbr2.PNG)
 
 ### PENJELASAN
   - Pada baris pertama dan ke dua program `lathan1.py`, terdapat fungsi _`for`_ yang merupakan jenis perulangan yang terhitung / _counted loop_.
@@ -64,7 +64,7 @@
 
 ## LATIHAN 2
 
-![gambar4](gambar/Latihan-2/1_soal.PNG)
+![gambar4](Latihan2/GambarLatihan2/gbr2.PNG)
 
 ### JAWABAN
   - Buka text editor, PyCharm, Atom, Visual Studio, dan lain-lain. Kemudian salin kode berikut
@@ -79,11 +79,11 @@
         7       print(i)
         8
 
-![gambar5](gambar/Latihan-2/2_kode.PNG)
+![gambar5](Latihan2/GambarLatihan2/gbr1.PNG)
 
   - Kemudian simpan dengan nama ```latihan2.py```, lalu jalankan program tersebut. Maka akan menampilkan output sebagai berikut
 
-  ![gambar6](gambar/Latihan-2/3_output.PNG)
+  ![gambar6](Latihan2/GambarLatihan2/gbr2.PNG)
 
 ### PENJELASAN
   - Pada baris pertama program `latihan2.py`, tertulis _`import random`_ yang berarti kita meng-impor modul/ _library_ bawaan dari python bernama **random**. Modul ini berisi bilangan acak, dengan bentuk **float**.
